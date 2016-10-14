@@ -4,6 +4,10 @@
 		margin: 0;
 		padding: 0;
 	}
+	body {
+		margin: 0;
+		width: 100%;
+	}
 	  .p1a {
 	    float: right;
 	  	width: 60px;
@@ -29,13 +33,13 @@
 	  	text-align: center;
 	  }
 	  .p2 {
-	  	position: relative;
-	  	width: 90%;
-	  	left: 25px;
+	  	/* position: relative; */
+	  	/* width: 90%; */
+	  	/* left: 25px; */
 	  	height: 150px;
 	  	margin-top: 0;
-	  	margin-left: 0px;
-	  	margin-right: 0px;
+	  	margin-left: 5px;
+	  	margin-right: 5px;
 	  	padding: 0px;
 	  	margin-bottom: 10px;
 	    border: 1px solid black;
