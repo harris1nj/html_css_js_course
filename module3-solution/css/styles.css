@@ -1,0 +1,29 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+#brand-nav {
+	color: #333333;
+	margin-bottom: 0px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  background-color: #951C49;
+  text-align: center;
+}
+
+#chicken {
+	background-color: #4933ff;
+}
